@@ -9,6 +9,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBook4,1 | <span style="color:#30BCD5"> YES </span> | Mami | Stock | Unknown | Couldn't install due to broke USB support |
 | MacBook5,1 | ^^ | air.man | ^^ | 0.0.19 | N/A |
 | MacBook5,2 | ^^ | Finder352 | ^^ | ^^ | ^^ |
+| ^^ | ^^ | Glujaz | ^^ | 0.5.0 | No keyboard function shortcuts |
 | MacBook6,1 | ^^ | Finder352 | ^^ | ^^ | ^^ |
 | MacBook7,1 | ^^ | MykolaG | ^^ | ^^ | ^^ |
 | ^^ | ^^ | Jazzzny | ^^ | ^^ | ^^ |
